@@ -1,0 +1,1 @@
+9999999999{"name": "googletrans", "version": "3.0.0", "summary": "Free Google Translate API for Python. Translates totally free of charge.", "platform": "", "requires_dist": ["httpx==0.13.3"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

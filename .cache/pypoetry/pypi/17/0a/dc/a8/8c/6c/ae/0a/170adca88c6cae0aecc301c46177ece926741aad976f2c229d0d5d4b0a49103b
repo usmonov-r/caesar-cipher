@@ -1,0 +1,1 @@
+9999999999{"name": "alphabet", "version": "0.0.8", "summary": "Uses various methods to recognize text", "platform": "", "requires_dist": ["googletrans", "filemagic", "pygments"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

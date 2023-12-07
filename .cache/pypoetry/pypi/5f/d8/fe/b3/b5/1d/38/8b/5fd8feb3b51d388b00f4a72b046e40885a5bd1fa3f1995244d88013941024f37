@@ -1,0 +1,1 @@
+9999999999{"name": "h2", "version": "3.2.0", "summary": "HTTP/2 State-Machine based protocol implementation", "platform": "", "requires_dist": ["hyperframe (<6,>=5.2.0)", "hpack (<4,>=3.0)", "enum34 (<2,>=1.1.6) ; python_version == \"2.7\""], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

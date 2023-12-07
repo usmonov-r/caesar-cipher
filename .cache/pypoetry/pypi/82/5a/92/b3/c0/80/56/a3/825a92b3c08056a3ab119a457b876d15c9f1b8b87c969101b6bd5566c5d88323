@@ -1,0 +1,1 @@
+9999999999{"name": "art", "version": "6.1", "summary": "ASCII Art Library For Python", "platform": null, "requires_dist": ["coverage >=4.1 ; extra == 'dev'", "vulture >=1.0 ; extra == 'dev'", "bandit >=1.5.1 ; extra == 'dev'", "pydocstyle >=3.0.0 ; extra == 'dev'"], "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}

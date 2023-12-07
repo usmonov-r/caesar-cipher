@@ -1,0 +1,1 @@
+9999999999{"name": "filemagic", "version": "1.6", "summary": "A Python API for libmagic, the library behind the Unix file command", "platform": "UNKNOWN", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

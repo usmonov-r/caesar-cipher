@@ -1,0 +1,1 @@
+9999999999{"name": "hstspreload", "version": "2023.1.1", "summary": "Chromium HSTS Preload list as a Python package", "platform": null, "requires_dist": null, "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "httpcore", "version": "0.9.1", "summary": "A minimal low-level HTTP client.", "platform": "", "requires_dist": ["h11 (<0.10,>=0.8)", "h2 (==3.*)", "sniffio (==1.*)"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
